@@ -3,6 +3,7 @@
 > 从科学论文、技术报告中的图表图像精准提取数据点，比 GetData Graph Digitizer 更好用的开源替代品。
 
 ## ✨ 核心特性
+<img width="1386" height="893" alt="image" src="https://github.com/user-attachments/assets/c7b5d6a0-5235-45d1-aa73-517534be664f" />
 
 ### 🎯 精准取点
 
