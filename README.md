@@ -1,6 +1,6 @@
 # GraphDigitizer Pro - 专业图形数字化工具
 
-> 从科学论文、技术报告中的图表图像精准提取数据点，比 GetData Graph Digitizer 更好用的开源替代品。
+> 从科学论文、技术报告中的图表图像精准提取数据点，比 GetData Graph Digitizer 更好用的替代品，免费功能基本能满足喜欢折腾的同学。
 
 ## ✨ 核心特性
 <img width="1386" height="893" alt="image" src="https://github.com/user-attachments/assets/c7b5d6a0-5235-45d1-aa73-517534be664f" />
